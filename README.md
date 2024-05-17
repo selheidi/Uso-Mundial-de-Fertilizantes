@@ -26,4 +26,6 @@ Además del mapa, se proporciona una lista de los 10 países con el mayor uso de
 
 El mapa y la lista de los 10 principales países proporcionan una visión general del uso de fertilizantes a nivel mundial en 2021, ayudando a comprender la distribución geográfica de esta práctica agrícola y su impacto potencial en el medio ambiente.
 
+![Tabla de fertilizante](https://github.com/selheidi/Uso-Mundial-de-Fertilizantes/blob/main/tabla_fertilizante.png)
+
 
