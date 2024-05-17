@@ -1,4 +1,8 @@
 # Uso-Mundial-de-Fertilizantes
+
+![Uso Mundial de Fertilizantes](https://github.com/selheidi/Uso-Mundial-de-Fertilizantes/blob/main/Uso%20Mundial%20de%20Fertilizantes.png)
+
+
 Análisis de la cantidad de fertilizantes utilizado por país para el año 2021 según fuentes del Banco Mundial utilizando Geopandas y Matplotlib
 
 El uso de fertilizantes en la agricultura ha sido fundamental para aumentar la producción de alimentos y satisfacer las crecientes demandas de una población en constante crecimiento. Sin embargo, el uso excesivo e indiscriminado de fertilizantes puede tener graves consecuencias para el medio ambiente y los ecosistemas naturales, especialmente para los humedales.
