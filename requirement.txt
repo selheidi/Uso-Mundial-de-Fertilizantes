@@ -1,5 +1,5 @@
-pandas
-geopandas
-numpy
-matplotlib.pyplot
-streamlit
+pandas == 2.2.2
+geopandas == 0.14.4
+numpy == 1.26.4
+matplotlib == 3.9.0
+streamlit == 1.34.0
