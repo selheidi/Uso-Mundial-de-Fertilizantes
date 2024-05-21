@@ -21,16 +21,6 @@ Ingresa a este link para poder interactuar con el mapa. Para ello elige un país
 
   https://uso-mundial-de-fertilizantes.streamlit.app/
 
-Código 1 :
-El código proporciona un mapa mundial que representa el uso de fertilizantes por país en 2021, medido en kilogramos por hectárea de tierra arable. Utiliza un esquema de colores de amarillo a rojo para mostrar la variación en el uso de fertilizantes, con los países que usan más fertilizantes en rojo y los que usan menos en amarillo. Además, se incluye una barra de colores a la derecha del mapa para proporcionar una leyenda de la escala de colores utilizada.
-
-Mapa Resultante:
-El mapa muestra el uso de fertilizantes por país en 2021. Los países se muestran en tonos de amarillo a rojo, con los países que usan más fertilizantes en rojo oscuro y los que usan menos en amarillo claro. Las líneas negras remarcan los límites de los países para mejorar la claridad visual del mapa.
-
-Top 10 de Países:
-Además del mapa, se proporciona una lista de los 10 países con el mayor uso de fertilizantes en 2021. Esta lista muestra el nombre de cada país junto con la cantidad de fertilizante utilizada, expresada en kilogramos por hectárea de tierra arable.
-
-El mapa y la lista de los 10 principales países proporcionan una visión general del uso de fertilizantes a nivel mundial en 2021, ayudando a comprender la distribución geográfica de esta práctica agrícola y su impacto potencial en el medio ambiente.
 
 ![Tabla de fertilizante](https://github.com/selheidi/Uso-Mundial-de-Fertilizantes/blob/main/tabla_fertilizante.png)
 
