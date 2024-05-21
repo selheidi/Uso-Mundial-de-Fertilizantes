@@ -1,9 +1,9 @@
-# Consumo de Fertilizantes por País para el año 2021 utilizando GeoPandas
+# Consumo de Fertilizantes por País y año utilizando GeoPandas
 
 ![Uso Mundial de Fertilizantes](https://github.com/selheidi/Uso-Mundial-de-Fertilizantes/blob/main/Uso%20Mundial%20de%20Fertilizantes.png)
 
 
-Análisis de la cantidad de fertilizantes utilizado por país para el año 2021 según fuentes del Banco Mundial utilizando Geopandas y Matplotlib
+### Análisis de la cantidad de fertilizantes utilizado por país para distintos años 2021 según fuentes del Banco Mundial utilizando las librerías Geopandas y Matplotlib. 
 
 El uso de fertilizantes en la agricultura ha sido fundamental para aumentar la producción de alimentos y satisfacer las crecientes demandas de una población en constante crecimiento. Sin embargo, el uso excesivo e indiscriminado de fertilizantes puede tener graves consecuencias para el medio ambiente y los ecosistemas naturales, especialmente para los humedales.
 
@@ -15,7 +15,11 @@ Los humedales, como los pantanos y los manglares, son ecosistemas especialmente 
 
 Por lo tanto, es fundamental adoptar prácticas agrícolas sostenibles y utilizar fertilizantes de manera responsable para minimizar su impacto en el medio ambiente y proteger la salud de los ecosistemas acuáticos y los humedales. Esto puede incluir la aplicación precisa de fertilizantes en función de las necesidades específicas de los cultivos, la implementación de técnicas de conservación del suelo y del agua, y la promoción de la agricultura orgánica y regenerativa.
 
-Código:
+## Visualización con Streamlit
+
+  https://uso-mundial-de-fertilizantes.streamlit.app/
+
+Código 1 :
 El código proporciona un mapa mundial que representa el uso de fertilizantes por país en 2021, medido en kilogramos por hectárea de tierra arable. Utiliza un esquema de colores de amarillo a rojo para mostrar la variación en el uso de fertilizantes, con los países que usan más fertilizantes en rojo y los que usan menos en amarillo. Además, se incluye una barra de colores a la derecha del mapa para proporcionar una leyenda de la escala de colores utilizada.
 
 Mapa Resultante:
