@@ -1,4 +1,4 @@
-# Consumo de Fertilizantes por País y año utilizando GeoPandas
+# Consumo de Fertilizantes por País y Año utilizando GeoPandas
 
 ![Uso Mundial de Fertilizantes](https://github.com/selheidi/Uso-Mundial-de-Fertilizantes/blob/main/Uso%20Mundial%20de%20Fertilizantes.png)
 
@@ -16,6 +16,8 @@ Los humedales, como los pantanos y los manglares, son ecosistemas especialmente 
 Por lo tanto, es fundamental adoptar prácticas agrícolas sostenibles y utilizar fertilizantes de manera responsable para minimizar su impacto en el medio ambiente y proteger la salud de los ecosistemas acuáticos y los humedales. Esto puede incluir la aplicación precisa de fertilizantes en función de las necesidades específicas de los cultivos, la implementación de técnicas de conservación del suelo y del agua, y la promoción de la agricultura orgánica y regenerativa.
 
 ## Visualización con Streamlit
+
+Ingresa a este link para poder interactuar con el mapa. Para ello elige un país y año del que desees saber el consumo de fertilizantes. 
 
   https://uso-mundial-de-fertilizantes.streamlit.app/
 
