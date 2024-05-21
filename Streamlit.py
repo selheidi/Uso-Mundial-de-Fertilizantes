@@ -11,7 +11,7 @@ world = gpd.read_file(gpd.datasets.get_path('naturalearth_lowres'))
 
 world = world[world.name != "Antarctica"] # esto elimina informacion irrelevante en este caso como el continente antartica. 
 
-df_indicator = pd.read_csv('..\\Include\\fertilizer_data.csv') 
+df_indicator = pd.read_csv('fertilizer_data.csv')
 # Filtrar los valores nulos en la columna 'value'
 df_indicator = df_indicator[df_indicator['value'].notnull()]
 
